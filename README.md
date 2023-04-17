@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.behance.net/gallery/95746151/WIJMOBIEL-GIF-ANIMATED-BANNERS)
 <h1 align="center">Hi 👋, I'm Sazia</h1>
 <h3 align="center">A creative individual exploring the world of Web Development based in South Wales, UK</h3>
 (img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept")
