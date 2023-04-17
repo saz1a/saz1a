@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saz1a&label=Profile%20views&color=0e75b6&style=flat" alt="saz1a" /> </p>
 
-- 🔭 I’m currently attending **Full Stack Web Development with Code Firse Girls**
+- 🔭 I’m currently attending **Full Stack Web Development with Code First Girls**
 
 - 🌱 I’m currently learning **HTML, Javascript, CSS, React, P5js, Python, MySql and more 
 
