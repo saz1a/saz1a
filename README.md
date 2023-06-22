@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently attending **Full Stack Web Development with Code First Girls**
 
-- 🌱 I’m currently learning **HTML, Javascript, CSS, React, P5js, Python, MySql and more 
+- 🌱 I’m currently learning **HTML, Javascript, CSS, React, Python, MySql and more 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
