@@ -8,7 +8,7 @@
   - Intro to Web App Security - November 2023
   - Machine Learning - December 2023
 - 🌱 I’m currently enhancing my skills in **HTML, Javascript, CSS, React, Python, MySql and more
-- 🌱 I am transitioning careers and seeking opportunities within the tech industry to further develop my skills.
+- 🌱 I am transitioning careers and seeking opportunities within the tech industry to develop my skills further.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
